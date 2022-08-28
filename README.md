@@ -48,9 +48,6 @@ Save a CSV of all retrieved data and a PNG image for each scatter plot.
 # Part 2: VacationPy
 Now, use your weather data skills to plan future vacations. Use Jupyter gmaps and the Google Places API for this part of the assignment.
 
-NOTE
-Remember that any API usage beyond the $200 credit will be charged to your personal account. You can set quotas and limits to your daily requests to be sure that you won’t be charged. Check out Google Maps Platform Billing (Links to an external site.) and Manage your cost of use (Links to an external site.) for more information.
-
 To complete this part of the assignment, complete the following steps:
 
 Create a heat map that displays the humidity for every city from Part 1, as in the following image:
@@ -64,14 +61,10 @@ Wind speed less than 10 mph
 Zero cloudiness
 
 Drop any rows that don't satisfy all three conditions. You want to be sure that the weather is ideal.
-NOTE
-Feel free to adjust your specifications, but make sure to set a reasonable limit to the number of rows returned by your API requests.
 
 For each city, use the Google Places API to find the first hotel located within 5,000 meters of your coordinates.
 
-Plot the hotels on top of the humidity heatmap, with each pin containing the Hotel Name, City, and Country, as in the following image:
-
-hotel map
+Plot the hotels on top of the humidity heatmap, with each pin containing the Hotel Name, City, and Country.
 
 Finally, make sure to meet the following requirements:
 
