@@ -27,19 +27,35 @@ The second requirement is to compute the linear regression for each relationship
 
 Northern Hemisphere: Temperature (F) vs. Latitude
 
+![image](https://user-images.githubusercontent.com/105513598/226961826-74ce3d8e-1ec6-4f1f-972d-449f6d3f9b47.png)
+
 Southern Hemisphere: Temperature (F) vs. Latitude
+
+![image](https://user-images.githubusercontent.com/105513598/226961939-2c6514ef-63e0-4409-a52e-47164a786067.png)
 
 Northern Hemisphere: Humidity (%) vs. Latitude
 
+![image](https://user-images.githubusercontent.com/105513598/226962058-28453c4c-7954-49d0-a0b8-00a85c2722a8.png)
+
 Southern Hemisphere: Humidity (%) vs. Latitude
+
+![image](https://user-images.githubusercontent.com/105513598/226962164-5cfde668-7307-4659-9ba8-f63eacde6728.png)
 
 Northern Hemisphere: Cloudiness (%) vs. Latitude
 
+![image](https://user-images.githubusercontent.com/105513598/226962323-df63a14d-64b4-4bda-8f49-114425e545eb.png)
+
 Southern Hemisphere: Cloudiness (%) vs. Latitude
+
+![image](https://user-images.githubusercontent.com/105513598/226962451-0e18b3f5-ed23-4b77-9883-aab6d6b0deb4.png)
 
 Northern Hemisphere: Wind Speed (mph) vs. Latitude
 
+![image](https://user-images.githubusercontent.com/105513598/226962578-a232ca84-7428-43f7-9cac-b9128b6730c0.png)
+
 Southern Hemisphere: Wind Speed (mph) vs. Latitude
+
+![image](https://user-images.githubusercontent.com/105513598/226962693-466ca674-0334-4ec0-b0c0-624b258c927c.png)
 
 After each pair of plots, explain what the linear regression is modeling. Describe any relationships that you notice and any other findings you may uncover.
 
