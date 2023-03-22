@@ -7,11 +7,19 @@ The first requirement is to create a series of scatter plots to showcase the fol
 
 Temperature (F) vs. Latitude
 
+![image](https://user-images.githubusercontent.com/105513598/226960572-0965f084-3d6b-463a-9e15-2a166cff9c8e.png)
+
 Humidity (%) vs. Latitude
+
+![image](https://user-images.githubusercontent.com/105513598/226960782-329ab2b6-686a-4f58-bf21-783c8b031056.png)
 
 Cloudiness (%) vs. Latitude
 
+![image](https://user-images.githubusercontent.com/105513598/226961054-cb90966c-d612-45e3-8cb5-06ec9e7d4e2c.png)
+
 Wind Speed (mph) vs. Latitude
+
+![image](https://user-images.githubusercontent.com/105513598/226961428-f198405c-6d1d-4dbe-92d4-8bbe2ad87c26.png)
 
 After each plot, add one to two sentences to explain what the code is analyzing.
 
